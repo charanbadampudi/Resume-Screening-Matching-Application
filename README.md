@@ -245,6 +245,11 @@ python -m pytest tests/
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+# Screenshot
+<img width="1905" height="976" alt="Screenshot 2026-03-20 153003" src="https://github.com/user-attachments/assets/135fccbd-6582-4824-aeed-de16c5d4dd19" />
+
+
+
 🙏 Acknowledgments
 Streamlit for the amazing web framework
 
